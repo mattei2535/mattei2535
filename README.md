@@ -23,7 +23,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <br>
     <br>
-  <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+  <a href="https://discord.com/users/402503629963001857" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
 </p>
