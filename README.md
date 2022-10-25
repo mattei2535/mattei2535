@@ -20,9 +20,9 @@
   <a href="mailto:matei2535@gmail.com"><img width="32px" alt="E-mail" title="E-mail me" src="https://i.imgur.com/z4LMBBG.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/402503629963001857/" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://i.imgur.com/Z974ANd.png"/></a>
-    <br>
-    <br>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    <br>
+    <br>
   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
