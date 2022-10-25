@@ -47,9 +47,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></a>   
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="E-mail" title="E-mail me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
+  <a href=""><img width="32px" alt="E-mail" title="E-mail me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></a>    
+  <a href="" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>    
   &#8287;&#8287;&#8287;&#8287;&#8287;    
 </p>
 
