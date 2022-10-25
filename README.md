@@ -62,5 +62,5 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&hide_border=true&title_color=ce2323&icon_color=ce2323&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact)]         (https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
