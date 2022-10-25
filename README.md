@@ -39,17 +39,17 @@
 
 <br>
 <p align="center">
-  <a href=""><img width="32px" alt="E-mail" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
+  <a href="https://www.javascript.com"><img width="32px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="My Discord Profile"><img width="32px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></a>
+  <a href="https://www.typescriptlang.org" alt="TypeScript"><img width="32px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="E-mail" title="E-mail me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/"><img width="32px" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></a>   
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS"><img width="32px" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/></a>   
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="E-mail" title="E-mail me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+  <a href="https://reactjs.org"><img width="32px" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>    
+  <a href="https://nodejs.org/en/" alt="NodeJS"><img width="32px" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>    
   &#8287;&#8287;&#8287;&#8287;&#8287;    
 </p>
 
