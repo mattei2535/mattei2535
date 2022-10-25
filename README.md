@@ -11,7 +11,7 @@
 <h3 align="center">
   Where you can find me?
 </h3>
-  
+<br>  
 <p align="center">
   <a href="mailto:matei2535@gmail.com"><img width="32px" alt="E-mail" title="E-mail me" src="https://i.imgur.com/z4LMBBG.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
