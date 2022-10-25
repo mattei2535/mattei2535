@@ -63,8 +63,7 @@
 
 <p align="left">
     <a href=""><img src="https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&hide_border=true&title_color=ce2323&icon_color=ce2323&theme=github_dark"/></a>
-
-    </p>
-    <p align="right">
-        <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact"/></a>
+</p>
+<p align="right">
+    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact"/></a>
 </p>
