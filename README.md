@@ -1,6 +1,6 @@
 <p align="right">
     <a href="https://github.com/mattei2535?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mattei2535?color=ce2323&labelColor=8a1f1f&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="#"><img alt="Total Visitators" title="Total Github Visitators" src="https://komarev.com/ghpvc/?username=mattei2535&color=DDA0DD&label=Profile Views&style=for-the-badge"/></a>
+    <a href="#"><img alt="Total Visitators" title="Total Github Visitators" src="https://komarev.com/ghpvc/?username=mattei2535&color=DDA0DD&labelColor=2222&label=Profile Views&style=for-the-badge"/></a>
 </p>
 
 # 👨‍💻 mattei2535
