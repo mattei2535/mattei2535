@@ -64,5 +64,5 @@
 <p>
     <a href=""><img src="https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&hide_border=true&title_color=ce2323&icon_color=ce2323&theme=github_dark"</a>
 &#8287;&#8287;&#8287;&#8287;&#8287; 
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact"</a>
 </p>
