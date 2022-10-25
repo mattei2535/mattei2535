@@ -56,3 +56,7 @@
 <br>
 
 ---
+
+<br>
+
+https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&theme=gruvbox
