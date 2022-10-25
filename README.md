@@ -21,6 +21,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/402503629963001857/" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://i.imgur.com/Z974ANd.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+   </a>
+</p>
 </p>
 
 <br>
