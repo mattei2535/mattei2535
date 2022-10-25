@@ -1,5 +1,5 @@
 <p align="right">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mattei2535?color=ce2323&labelColor=8a1f1f&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/mattei2535?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mattei2535?color=ce2323&labelColor=8a1f1f&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mattei2535?color=ce2323&labelColor=8a1f1f&style=for-the-badge&logo=person-add&label=Profile Views&logoColor=white"/></a>
 </p>
 
