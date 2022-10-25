@@ -48,3 +48,6 @@
 <img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<br>
+---
