@@ -34,8 +34,8 @@
 
 <br>
 <p align="center">
-
-    <a href="https://www.javascript.com"><img alt="JavaScript"  title="JavaScript"width="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>  
+    
+    <a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>  
     <a href="https://www.javascript.com"><img alt="TypeScript" title="TypeScript" width="32px"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
     <a href="https://www.javascript.com"><img alt="NodeJS" title="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-   original.svg" /></a>  
     <a href="https://www.javascript.com"><img alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />    </a>
