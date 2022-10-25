@@ -35,16 +35,16 @@
 <br>
 <p align="center">
     
-<img alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img alt="TypeScript" title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="CSS" title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="NodeJS" title="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
