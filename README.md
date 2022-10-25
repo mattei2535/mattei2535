@@ -42,6 +42,7 @@
   <a href="mailto:matei2535@gmail.com"><img width="32px" alt="E-mail" title="E-mail me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/402503629963001857/" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:matei2535@gmail.com"><img width="32px" alt="E-mail" title="E-mail me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/402503629963001857/" alt="My Discord Profile"><img width="32px" title="My Discord Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></a>    
