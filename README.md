@@ -26,6 +26,9 @@
 <br>
 
 ---
+<br>
 
-### Languages that i learn/use
+<h3 align="center">
+  Languages that i learn/use
+</h3>
 
