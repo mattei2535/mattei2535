@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mattei2535?logoColor=red&style=plastic"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mattei2535?label=FOLLOWERS&style=for-the-badge"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
