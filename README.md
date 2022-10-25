@@ -35,7 +35,7 @@
 <br>
 <p align="center">
 
-<img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;    
 <img alt="TypeScript" title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
       &#8287;&#8287;&#8287;&#8287;&#8287;
