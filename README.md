@@ -16,6 +16,8 @@
 
 <br>
 
+<--- SOCIAL LINKS
+
 <p align="center">
   <a href=""><img width="32px" alt="E-mail" title="E-mail me" src="https://i.imgur.com/z4LMBBG.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -26,7 +28,10 @@
 <br>
 
 ---
+
 <br>
+
+<--- PROGRAMMING LANGUAGES
 
 <h3 align="center">
   Languages that i learn/use
