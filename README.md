@@ -59,4 +59,4 @@
 
 <br>
 
-![Mattei2535 GitHub stats](https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&theme=github_dark&title_color=ce2323)
+![Mattei2535 GitHub stats](https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&theme=github_dark)
