@@ -62,6 +62,6 @@
 <br>
 
 <p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&hide_border=true&title_color=ce2323&icon_color=ce2323&theme=github_dark"/></a>
-    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact"/></a>
+    <a href="#"><img alt="Mattei2535 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattei2535&show_icons=true&hide_border=true&title_color=ce2323&icon_color=ce2323&theme=github_dark"/></a>
+    <a href="#"><img alt="Mattei2535 Top Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&title_color=ce2323&theme=github_dark&layout=compact"/></a>
 </p>
