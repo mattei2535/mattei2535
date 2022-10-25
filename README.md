@@ -37,15 +37,15 @@
 
 <a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;    
-<img alt="TypeScript" title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<a href="https://www.javascript.com"><img alt="TypeScript" title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="NodeJS" title="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<a href="https://www.javascript.com"><img alt="NodeJS" title="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;    
-<img alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<a href="https://www.javascript.com"><img alt="HTML" title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="CSS" title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<a href="https://www.javascript.com"><img alt="CSS" title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-<img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<a href="https://www.javascript.com"><img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
